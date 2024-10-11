@@ -83,5 +83,3 @@ For any questions or suggestions, feel free to reach out:
 - **Email**: lohani12.sanskar@gmail.com
 
 ---
-
-This README format provides clear instructions on how to install, run, and contribute to your stock tracker app, as well as offers a direct link to download the APK.
